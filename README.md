@@ -2,8 +2,12 @@
 3d Table Scene created in OpenGL
 
 #	How do I approach designing software?
-o	What new design skills has your work on the project helped you to craft?
-Working on this project has allowed me to significantly enhance my own design skills by translating and reconstructing a 3d scene from the original images that I used. I also improved my own knowledge of color and lighting which allowed me to produce a scene blended with natural tones.
+
+
+`What new design skills has your work on the project helped you to craft?` 
+ = Working on this project has allowed me to significantly enhance my own design skills by translating and reconstructing a 3d scene from the original images that I used. I also improved my own knowledge of color and lighting which allowed me to produce a scene blended with natural tones.
+
+
 o	What design process did you follow for your project work?
 The design process I followed for this project consisted of planning, implementation, and modification. Throughout each module I would first plan out the required work I needed to achieve and then execute the plan until the requirements were meant. After meeting the functional requirements, I would then look into any other modifications or changes if necessary.
 o	How could tactics from your design approach be applied in future work?
