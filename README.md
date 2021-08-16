@@ -1,5 +1,5 @@
 # 3d-Table-Scene-Portfolio
-3d Table Scene created in OpenGL
+3d Table Scene created in OpenGL (Noah Pohl)
 
 #	How do I approach designing software?
 
