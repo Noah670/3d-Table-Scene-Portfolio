@@ -15,6 +15,6 @@ How do computational graphics and visualizations give you new knowledge and skil
 How do computational graphics and visualizations give you new knowledge and skills that can be applied in your future professional pathway?
 
 
-[screenshot](https://github.com/Noah670/3d-Table-Scene-Portfolio/blob/master/screens/Screenshot_Table_Scene_Noah_Pohl.png)
+![screenshot](https://github.com/Noah670/3d-Table-Scene-Portfolio/blob/master/screens/Screenshot_Table_Scene_Noah_Pohl.png)
 
 
