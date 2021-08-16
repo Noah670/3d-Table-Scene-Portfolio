@@ -4,7 +4,7 @@
 #	How do I approach designing software?
 
 
-```What new design skills has your work on the project helped you to craft?```
+> What new design skills has your work on the project helped you to craft?
 - Working on this project has allowed me to significantly enhance my own design skills by translating and reconstructing a 3d scene from the original images that I used. I also improved my own knowledge of color and lighting which allowed me to produce a scene blended with natural tones.
 
 
