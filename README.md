@@ -1,7 +1,7 @@
 # 3d-Table-Scene-Portfolio
 3d Table Scene created in OpenGL
 
-1.	How do I approach designing software?
+#	How do I approach designing software?
 o	What new design skills has your work on the project helped you to craft?
 Working on this project has allowed me to significantly enhance my own design skills by translating and reconstructing a 3d scene from the original images that I used. I also improved my own knowledge of color and lighting which allowed me to produce a scene blended with natural tones.
 o	What design process did you follow for your project work?
